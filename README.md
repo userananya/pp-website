@@ -1,1 +1,2 @@
-# pp-website
+Developed a comprehensive personal portfolio website to showcase my technical skills, education and project details. In the footer of this website added contact info and contact form. I can receive the contact form data on my google sheets. The website features a user-friendly interface and responsive design, ensuring accessibility across various devices.
+Technology used:    HTML5, CSS3, JavaScript  
